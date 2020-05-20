@@ -1,8 +1,8 @@
 // failing example
 
-var filemon = new cat("Filemon");
+const filemon = new Cat("Filemon");
 
-const cat = class Cat {
+var Cat = class {
   constructor(name) {
     this.name = name;
   }
