@@ -1,0 +1,14 @@
+{
+  "name": "hoisting-example",
+  "version": "1.0.0",
+  "description": "Examples for blog post about hoisting",
+  "main": "echo \"No main; run examples separately\" && exit 1",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Adam Mróz",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
